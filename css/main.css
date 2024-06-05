@@ -151,6 +151,7 @@ header .container h2{
 
 /* About CSS */
 #about{
+    margin-top: 5rem;
     background-color: #1ABC9A;
     color: #FFF;
 }
