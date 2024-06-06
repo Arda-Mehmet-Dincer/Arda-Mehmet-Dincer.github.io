@@ -100,17 +100,26 @@ hr.star-dark{
     background-color: #FFF;
     border: 2px solid #1ABC9A;
 }
-.btn-social, .btn-recources{
+.btn-social{
     display: inline-block;
     background-color: transparent;
     color: #FFF;
     font-size: 3rem;
     transition: all 0.4s;
 }
-.btn-social:hover, .btn-recources:hover{
+.btn-social:hover{
     color: #1ABC9A;
 }
-
+.btn-recources{
+    display: inline-block;
+    background-color: transparent;
+    color: #FFF;
+    font-size: 3rem;
+    transition: all 0.4s;
+}
+.btn-recources:hover{
+    color: #1ABC9A;
+}
 /* Form CSS */
 .form-group{
     display: flex;
